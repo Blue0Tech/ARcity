@@ -6,8 +6,8 @@
       "position": { "x": 0, "y": 0, "z": 0 },
       "rotation": { "x": -90, "y": 0, "z": 0 },
       "color": "#795548",
-      "width": 19,
-      "height": 15
+      "width": 0.19,
+      "height": 0.15
     },
     "1": {
       "barcode_value": 1,
