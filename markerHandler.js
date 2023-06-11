@@ -79,10 +79,10 @@ AFRAME.registerComponent('markerHandler',{
                 messageText.setAttribute('visible',false);
                 this.placeModel('road',models);
                 this.placeModel('car',models);
-                // this.placeModel('building1',models);
-                // this.placeModel('building2',models);
-                // this.placeModel('building3',models);
-                // this.placeModel('tree',models);
+                this.placeModel('building1',models);
+                this.placeModel('building2',models);
+                this.placeModel('building3',models);
+                this.placeModel('tree',models);
                 this.placeModel('sun',models);
             };
         };
